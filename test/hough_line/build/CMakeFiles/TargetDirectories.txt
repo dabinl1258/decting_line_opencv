@@ -1,0 +1,3 @@
+/media/wolp/hey/computer_vision/detecting_edge_opencv_dabin/test/hough_line/build/CMakeFiles/edit_cache.dir
+/media/wolp/hey/computer_vision/detecting_edge_opencv_dabin/test/hough_line/build/CMakeFiles/rebuild_cache.dir
+/media/wolp/hey/computer_vision/detecting_edge_opencv_dabin/test/hough_line/build/CMakeFiles/hough_line.dir
